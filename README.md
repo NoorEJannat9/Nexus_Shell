@@ -1,6 +1,6 @@
-# ⚡ NEXUS SHELL v2.6
+# ⚡ NEXUS SHELL 
 
-> A modern, feature-rich Linux command learning and execution console built with Python and Tkinter — redesigned for 2026.
+> A modern, feature-rich Linux command learning and execution console built with Python and Tkinter.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
